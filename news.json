@@ -1,54 +1,243 @@
 {
-  "updated": "2026-07-18T13:52:55.692Z",
+  "updated": "2026-07-18T15:17:17.263Z",
   "items": [
     {
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI."
     },
     {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company d…"
     },
     {
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-…"
     },
     {
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update…"
     },
     {
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial…"
     },
     {
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "source": "The Defiant",
-      "date": "2026-07-18T13:52:55.000Z",
+      "date": "2026-07-18T15:17:16.000Z",
       "summary": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar wit…"
     },
     {
-      "title": "Robinhood Chain sees 85% of trading in memecoins two weeks post-launch",
-      "link": "https://cryptobriefing.com/robinhood-chain-memecoins-85-percent-trading-launch/",
+      "title": "US air strikes hit Iran’s Hormozgan province amid rising tensions",
+      "link": "https://cryptobriefing.com/us-air-strikes-hit-irans-hormozgan-province-amid-rising-tensions/",
       "source": "CryptoBriefing",
-      "date": "2026-07-18T13:50:08.000Z",
-      "summary": "Memecoins account for 85% of trading on Robinhood Chain two weeks after launch, while tokenized real-world assets sit at just 1% of DEX volume. The post Robinhood Chain sees 85% of trading in memecoins two weeks post-…"
+      "date": "2026-07-18T15:15:33.000Z",
+      "summary": "US air strikes hit Iran's Hormozgan province amid rising tensions. Iranian regime fall by end of 2026 at 10.5% YES, full airspace closure by July 31 at 31.5% YE. The post US air strikes hit Iran’s Hormozgan province a…"
+    },
+    {
+      "title": "Your stock portfolio is tied to the Japanese yen &#x2014; and a looming intervention is flashing a major warning sign",
+      "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T15:14:00.000Z",
+      "summary": "What the link between the yen and U.S. stocks means for your portfolio."
+    },
+    {
+      "title": "China found a $125 billion escape valve for an economy running out of momentum",
+      "link": "https://cryptoslate.com/china-posted-a-125-6-billion-trade-surplus-but-its-economy-may-still-be-slowing/",
+      "source": "CryptoSlate",
+      "date": "2026-07-18T15:05:27.000Z",
+      "summary": "China’s June trade numbers and second-quarter growth numbers looked strong if you look at them one at a time. However, when you put them together, they describe an economy with a very specific problem: factories are s…"
+    },
+    {
+      "title": "Gold's Returns Are Shining: Is It Better to Invest With a Physical Gold or Mining Stock ETF in 2026?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/golds-returns-shining-better-invest-150001294.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T15:00:01.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Elon Musk's SpaceX has lost $1T in market cap since mid-June as Starship launch is scrubbed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-lost-1t-150000833.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T15:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Messi’s ‘pure history’ World Cup moment highlights crypto’s deepening ties to global football",
+      "link": "https://cryptobriefing.com/messi-world-cup-crypto-football-impact/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:59:22.000Z",
+      "summary": "Scaloni calls Messi 'pure history' before the 2026 World Cup final. Here's why crypto investors should care about football's deepening blockchain ties. The post Messi’s ‘pure history’ World Cup moment highlights crypt…"
+    },
+    {
+      "title": "Why CoreWeave Stock Keeps Falling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-keeps-falling-145700806.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T14:57:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "State Street's XLF or ProShares' UYG: Which Financial ETF Is Right for Long-Term Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-streets-xlf-proshares-uyg-145644735.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T14:56:44.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens",
+      "link": "https://cryptobriefing.com/iran-kuwait-desalination-strikes-hormuz-crypto-markets/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:53:03.000Z",
+      "summary": "Iranian strikes on Kuwait's desalination plants escalate the Strait of Hormuz conflict, with direct implications for oil prices, crypto markets, and Gulf The post Iran strikes Kuwait desalination plants as Strait of H…"
+    },
+    {
+      "title": "Iran condemns US strike on desalination plant as war crime amidst 2026 conflict",
+      "link": "https://cryptobriefing.com/iran-condemns-us-strike-on-desalination-plant-as-war-crime-amidst-2026-conflict/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:51:31.000Z",
+      "summary": "Iran condemns US strike on desalination plant as a war crime. Final nuclear deal by August 13, 2026 at 1.9% YES. The post Iran condemns US strike on desalination plant as war crime amidst 2026 conflict appeared first …"
+    },
+    {
+      "title": "Moonshot AI’s Kimi K3 challenges US models, may impact Anthropic valuation",
+      "link": "https://cryptobriefing.com/moonshot-ais-kimi-k3-challenges-us-models-may-impact-anthropic-valuation/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:49:47.000Z",
+      "summary": "Moonshot AI launched the Kimi K3 model, challenging U.S. competitors. Anthropic's valuation hitting $1.25T by December at 91% YES. The post Moonshot AI’s Kimi K3 challenges US models, may impact Anthropic valuation ap…"
+    },
+    {
+      "title": "Here&#x2019;s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+      "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T14:49:00.000Z",
+      "summary": "About three-fourths of Americans lack the wealth needed to prosper in today&#x2019;s economy, according to a new benchmark developed by the Aspen Institute."
+    },
+    {
+      "title": "Dani Olmo’s World Cup knockout form highlights the growing intersection of sports data and crypto betting markets",
+      "link": "https://cryptobriefing.com/dani-olmo-world-cup-crypto-prediction-markets/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:45:12.000Z",
+      "summary": "Dani Olmo's consecutive assists in Spain's World Cup knockout stages highlight the growing role of crypto prediction markets in global sports betting. The post Dani Olmo’s World Cup knockout form highlights the growin…"
+    },
+    {
+      "title": "BonkDAO governance exploit drains 4.4 trillion BONK from treasury as attacker begins selling",
+      "link": "https://cryptobriefing.com/bonkdao-governance-exploit-treasury-drain/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:42:00.000Z",
+      "summary": "An attacker drained 4.426 trillion BONK tokens from BonkDAO's treasury via a governance exploit, sold 800 billion for $2M, and still holds 2.4 trillion The post BonkDAO governance exploit drains 4.4 trillion BONK from…"
+    },
+    {
+      "title": "Explosions hit US Fifth Fleet HQ in Bahrain amid Iran conflict escalation",
+      "link": "https://cryptobriefing.com/explosions-hit-us-fifth-fleet-hq-in-bahrain-amid-iran-conflict-escalation/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:41:11.000Z",
+      "summary": "Explosions hit the US Fifth Fleet HQ in Bahrain amid rising tensions. Iranian military action against a Gulf state by July 22 at 53.5% YES. The post Explosions hit US Fifth Fleet HQ in Bahrain amid Iran conflict escal…"
+    },
+    {
+      "title": "AI may force these workers to retire earlier than planned",
+      "link": "https://www.marketwatch.com/story/ai-may-force-these-workers-to-retire-earlier-than-planned-b590f0a8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T14:39:00.000Z",
+      "summary": "Older workers now face two major impediments: looming Social Security cuts and rapidly evolving workplace priorities"
+    },
+    {
+      "title": "Iran warns UAE airports, ports of potential evacuations amid US tensions",
+      "link": "https://cryptobriefing.com/iran-warns-uae-airports-ports-of-potential-evacuations-amid-us-tensions/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:37:59.000Z",
+      "summary": "Iran warns UAE of potential evacuations amid US tensions. Military action against a Gulf state by July 22 at 53.5% YES. The post Iran warns UAE airports, ports of potential evacuations amid US tensions appeared first …"
+    },
+    {
+      "title": "Small-cap outperformance is persisting &#x2014; and these 15 quality stocks pay rich dividends",
+      "link": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T14:22:00.000Z",
+      "summary": "Think large caps are still the best bet? The data say you are looking in the wrong place."
+    },
+    {
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "source": "CoinDesk",
+      "date": "2026-07-18T14:15:15.000Z",
+      "summary": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests."
+    },
+    {
+      "title": "France reportedly withdraws $15B in gold from US vaults amid currency shift concerns",
+      "link": "https://cryptobriefing.com/france-gold-withdrawal-us-vaults-currency-shift/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:13:51.000Z",
+      "summary": "France reportedly withdrew $15B in gold from US vaults, sparking de-dollarization debate. What the unverified reports mean for Bitcoin and crypto investors. The post France reportedly withdraws $15B in gold from US va…"
+    },
+    {
+      "title": "CEO: SpaceX's record IPO was the space economy's opening act. Here's what comes next.",
+      "link": "https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T14:06:18.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Venezuela accesses $346M from International Monetary Fund reserves after years of financial isolation",
+      "link": "https://cryptobriefing.com/venezuela-imf-346m-reserves-access/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T14:06:01.000Z",
+      "summary": "Venezuela accessed $346M from frozen IMF reserves for earthquake recovery, marking a thaw in relations after seven years of financial isolation. The post Venezuela accesses $346M from International Monetary Fund reser…"
+    },
+    {
+      "title": "Look on the bright side: Energy companies are booming",
+      "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T14:06:00.000Z",
+      "summary": "You can&#x2019;t beat them. Maybe you should join them."
+    },
+    {
+      "title": "Trump posts may soon reach trading bots before users and prediction markets are not ready",
+      "link": "https://cryptoslate.com/trump-posts-may-soon-reach-trading-bots-before-users-and-prediction-markets-are-not-ready/",
+      "source": "CryptoSlate",
+      "date": "2026-07-18T14:05:16.000Z",
+      "summary": "Trump Media is turning Truth Social posts into a feed for traders, and prediction markets now face a timing problem. The issue is what happens after a post becomes public but before most users can see, read, and act o…"
+    },
+    {
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "source": "CoinDesk",
+      "date": "2026-07-18T14:00:00.000Z",
+      "summary": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist."
+    },
+    {
+      "title": "China urges UK to protect rights of Chinese investors after British Steel nationalization",
+      "link": "https://cryptobriefing.com/china-uk-british-steel-nationalization-investors/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T13:58:48.000Z",
+      "summary": "China condemns UK nationalization of British Steel as a forced takeover, urging protection of Jingye Group's $1.6B investment under bilateral treaty. The post China urges UK to protect rights of Chinese investors afte…"
+    },
+    {
+      "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+      "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "date": "2026-07-18T13:58:00.000Z",
+      "summary": "The second quarter was a six-year best for U.S. stocks &#x2014; here are the three sectors poised to lead the next leg higher."
+    },
+    {
+      "title": "France pulled $15B in gold from US vaults, and more European countries may follow. Is a global currency shift coming?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/france-pulled-15b-gold-us-134500746.html",
+      "source": "Yahoo Finance",
+      "date": "2026-07-18T13:45:00.000Z",
+      "summary": ""
     },
     {
       "title": "This overlooked index is a better investment than the S&P 500",
@@ -58,74 +247,11 @@
       "summary": "We did the math over a 30-year period, and it&#x2019;s not even close."
     },
     {
-      "title": "Iraq signs $60B in energy deals with US and British oil majors as Washington builds Middle East alliance",
-      "link": "https://cryptobriefing.com/iraq-60b-energy-deals-us-british-oil/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:36:51.000Z",
-      "summary": "Iraq commits to $60B in energy deals with US and British oil majors as envoy Tom Barrack builds a strategic Middle East corridor with macro implications for The post Iraq signs $60B in energy deals with US and British…"
-    },
-    {
-      "title": "Elizabeth Warren demands Trump disclose 2026 crypto earnings by July 23",
-      "link": "https://cryptobriefing.com/warren-demands-trump-crypto-disclosure/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:35:20.000Z",
-      "summary": "Senator Elizabeth Warren demands Trump disclose 2026 crypto earnings by July 23 as Senate debates the CLARITY Act and Trump's $1.4B crypto income raises The post Elizabeth Warren demands Trump disclose 2026 crypto ear…"
-    },
-    {
-      "title": "Iranian ballistic missiles strike Kuwait security academy as Gulf conflict rattles crypto markets",
-      "link": "https://cryptobriefing.com/iran-missiles-kuwait-crypto-markets-impact/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:35:07.000Z",
-      "summary": "Iranian ballistic missiles struck Kuwait's Academy of Security, escalating a Gulf conflict that has triggered over $1 billion in crypto liquidations in The post Iranian ballistic missiles strike Kuwait security academ…"
-    },
-    {
-      "title": "Pfizer Paid Out $14.6 Billion in Dividends Over the Last 18 Months. Can It Keep This Up Through the Patent Cliff?",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-paid-14-6-billion-133500284.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T13:35:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenEvidence reportedly eyes $200M raise at $20B valuation, signaling AI healthcare’s breakneck growth",
-      "link": "https://cryptobriefing.com/openevidence-200m-raise-20b-valuation/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:34:56.000Z",
-      "summary": "OpenEvidence reportedly considers raising $200M at a $20B valuation, marking a rapid ascent for the AI medical platform used by over 40% of US physicians. The post OpenEvidence reportedly eyes $200M raise at $20B valu…"
-    },
-    {
-      "title": "An Oceaneering Insider Sold 7,000 Company Shares. Here's a Closer Look at the Transaction.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oceaneering-insider-sold-7-000-133401085.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T13:34:01.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Iran suspends Islamabad MoU commitments as US tensions escalate",
-      "link": "https://cryptobriefing.com/iran-suspends-islamabad-mou-us-tensions/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:31:27.000Z",
-      "summary": "Iran suspended the Islamabad MoU on July 13, 2026, citing US ceasefire violations. Here is what it means for energy markets and risk assets including The post Iran suspends Islamabad MoU commitments as US tensions esc…"
-    },
-    {
-      "title": "Hungary’s president faces deadline to sign amendment ending his term",
-      "link": "https://cryptobriefing.com/hungarys-president-faces-deadline-to-sign-amendment-ending-his-term/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:30:13.000Z",
-      "summary": "Hungary's president faces a deadline to sign an amendment that could end his term. Removal by July 31 at 83% YES. The post Hungary’s president faces deadline to sign amendment ending his term appeared first on Crypto …"
-    },
-    {
       "title": "&#x2018;I am at a loss&#x2019;: My brother is dying. We are not close. What responsibility do I have to help him?",
       "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "date": "2026-07-18T13:30:00.000Z",
       "summary": "&#x201c;He is now no longer able to think clearly or communicate his wishes.&#x201d;"
-    },
-    {
-      "title": "Amazon’s $25 Billion Bond Sale Created 3 More Reasons for Me to Keep Buying",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-25-billion-bond-sale-132610706.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T13:26:10.000Z",
-      "summary": ""
     },
     {
       "title": "This week's AI winners and losers",
@@ -154,132 +280,6 @@
       "source": "Yahoo Finance",
       "date": "2026-07-18T13:15:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "GCC condemns Iranian attacks on Bahrain, Kuwait, Jordan, cites war crimes",
-      "link": "https://cryptobriefing.com/gcc-condemns-iranian-attacks-on-bahrain-kuwait-jordan-cites-war-crimes/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:13:39.000Z",
-      "summary": "GCC condemns Iranian attacks on Bahrain, Kuwait, and Jordan. Iranian military action against a Gulf state on July 22 at 54.5% YES. The post GCC condemns Iranian attacks on Bahrain, Kuwait, Jordan, cites war crimes app…"
-    },
-    {
-      "title": "Kentucky governor claims Mitch McConnell is dead, fueling speculation",
-      "link": "https://cryptobriefing.com/kentucky-governor-claims-mitch-mcconnell-is-dead-fueling-speculation/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:02:48.000Z",
-      "summary": "Kentucky Governor claims Mitch McConnell is dead, raising speculation. Resignation before term ends at 39.5% YES. The post Kentucky governor claims Mitch McConnell is dead, fueling speculation appeared first on Crypto…"
-    },
-    {
-      "title": "Trump administration opts for voluntary AI safety reviews, not an independent regulator",
-      "link": "https://cryptobriefing.com/trump-voluntary-ai-safety-reviews/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T13:00:40.000Z",
-      "summary": "Trump's new executive order creates voluntary AI safety reviews and a cybersecurity clearinghouse, explicitly banning mandatory licensing for AI The post Trump administration opts for voluntary AI safety reviews, not …"
-    },
-    {
-      "title": "Iran suspends MoU commitments with US amid renewed sanctions",
-      "link": "https://cryptobriefing.com/iran-suspends-mou-commitments-with-us-amid-renewed-sanctions/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T12:58:35.000Z",
-      "summary": "Iran suspends MoU commitments with the US amid renewed sanctions. Final nuclear deal by August 13, 2026 at 2% YES. The post Iran suspends MoU commitments with US amid renewed sanctions appeared first on Crypto Briefing ."
-    },
-    {
-      "title": "Kuwait condemns Iranian attacks on critical infrastructure as crypto markets feel the shockwaves",
-      "link": "https://cryptobriefing.com/kuwait-condemns-iran-attacks-crypto-impact/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T12:58:27.000Z",
-      "summary": "Kuwait condemns Iranian strikes on critical infrastructure as Bitcoin liquidations exceed $1 billion and US Treasury sanctions Iranian crypto exchanges. The post Kuwait condemns Iranian attacks on critical infrastruct…"
-    },
-    {
-      "title": "Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation",
-      "link": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T12:55:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T12:43:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Your Social Security check could go up by $74 a month next year",
-      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "date": "2026-07-18T12:42:00.000Z",
-      "summary": "Social Security&#x2019;s cost-of-living-adjustment could be 3.8% in 2027, as inflation shows signs of cooling."
-    },
-    {
-      "title": "Circle became a federal trust bank – now lenders warn stablecoins is projected to drain $500 billion",
-      "link": "https://cryptoslate.com/circle-became-a-federal-trust-bank-now-lenders-warn-stablecoins-is-projected-to-drain-500-billion/",
-      "source": "CryptoSlate",
-      "date": "2026-07-18T12:30:24.000Z",
-      "summary": "Washington just gave one of the world's largest digital currencies a more official place in the US financial system. On July 10, Circle won final approval from the Office of the Comptroller of the Currency to open a n…"
-    },
-    {
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Holds Top Rating",
-      "link": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T12:00:21.000Z",
-      "summary": ""
-    },
-    {
-      "title": "ASML, Snowflake Lead Five Stocks Near Buy Points In Tough Market",
-      "link": "https://www.investors.com/news/asml-snowflake-ai-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T12:00:15.000Z",
-      "summary": ""
-    },
-    {
-      "title": "How a homegrown Chinese chip maker became the memory industry&#x2019;s biggest wild card",
-      "link": "https://www.marketwatch.com/story/how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-c3f603af?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "date": "2026-07-18T12:00:00.000Z",
-      "summary": "As ChangXin Memory Technologies gears up for a breakout public listing, the chip maker is eyeing the turf held by Micron, SK Hynix and Samsung."
-    },
-    {
-      "title": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy",
-      "link": "https://www.marketwatch.com/story/forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-threat-to-the-u-s-economy-710b9470?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "date": "2026-07-18T12:00:00.000Z",
-      "summary": "As investors fret about gasoline, diesel prices have been rising and are threatening to cause even more economic destruction."
-    },
-    {
-      "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
-      "link": "https://www.marketwatch.com/story/this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-data-8abfba78?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "date": "2026-07-18T12:00:00.000Z",
-      "summary": "It&#x2019;s &#x2018;like driving one more nail into the proverbial coffin,&#x2019; says a rancher about the recent deterioration in U.S. agriculture data"
-    },
-    {
-      "title": "House passes Common Cents Act to help with phasing out the penny. How cash purchases would work if the bill becomes law",
-      "link": "https://finance.yahoo.com/economy/policy/articles/house-passes-common-cents-act-120000839.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T12:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T11:56:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Big banks' record Wall Street profits are increasingly tied to AI",
-      "link": "https://finance.yahoo.com/markets/article/big-banks-record-wall-street-profits-are-increasingly-tied-to-ai-115540382.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T11:55:40.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "date": "2026-07-18T11:42:51.000Z",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ]
 }
