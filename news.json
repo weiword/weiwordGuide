@@ -1,47 +1,110 @@
 {
-  "updated": "2026-07-18T23:13:31.531Z",
+  "updated": "2026-07-19T00:12:48.435Z",
   "items": [
     {
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI."
     },
     {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company d…"
     },
     {
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-…"
     },
     {
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update…"
     },
     {
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial…"
     },
     {
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "source": "The Defiant",
-      "date": "2026-07-18T23:13:31.000Z",
+      "date": "2026-07-19T00:12:47.000Z",
       "summary": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar wit…"
+    },
+    {
+      "title": "SpaceX loses its IPO premium as larger supply test approaches",
+      "link": "https://cryptobriefing.com/spacex-ipo-premium-lost-supply-test/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:50:12.000Z",
+      "summary": "SpaceX shares have fallen below their $135 IPO price to around $124 as lockup expirations loom, with implications for capital flows into crypto and risk The post SpaceX loses its IPO premium as larger supply test appr…"
+    },
+    {
+      "title": "Mbappé’s World Cup heartbreak is fueling a wild crypto sideshow",
+      "link": "https://cryptobriefing.com/mbappe-world-cup-crypto-tokens/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:46:36.000Z",
+      "summary": "Mbapp prefers a World Cup final over the Golden Boot, but unauthorized tokens tied to his name hit a $464M peak market cap during the 2026 tournament. The post Mbappé’s World Cup heartbreak is fueling a wild crypto si…"
+    },
+    {
+      "title": "Iran attacks Kurdistan Freedom Party bases in Iraq amid 2026 crisis",
+      "link": "https://cryptobriefing.com/iran-attacks-kurdistan-freedom-party-bases-in-iraq-amid-2026-crisis/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:43:59.000Z",
+      "summary": "Iran attacks Kurdish bases in Iraq amid rising tensions. Full airspace closure by August 31 at 51.5% YES. The post Iran attacks Kurdistan Freedom Party bases in Iraq amid 2026 crisis appeared first on Crypto Briefing ."
+    },
+    {
+      "title": "Russia launches largest ballistic missile attack on Kyiv in ongoing conflict",
+      "link": "https://cryptobriefing.com/russia-launches-largest-ballistic-missile-attack-on-kyiv-in-ongoing-conflict/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:41:33.000Z",
+      "summary": "Russia launches largest missile attack on Kyiv. Russia enters Sloviansk by December 31, 2026 at 20.5% YES. The post Russia launches largest ballistic missile attack on Kyiv in ongoing conflict appeared first on Crypto…"
+    },
+    {
+      "title": "Maignan concedes six as England beats France 6-4 in World Cup play-off",
+      "link": "https://cryptobriefing.com/maignan-concedes-six-as-england-beats-france-6-4-in-world-cup-play-off/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:38:30.000Z",
+      "summary": "France's Mike Maignan conceded six goals in a World Cup play-off loss to England. Maignan winning the Golden Glove at 2026 World Cup at 0.1% YES. The post Maignan concedes six as England beats France 6-4 in World Cup …"
+    },
+    {
+      "title": "Michael Olise outshines England with four chances created in World Cup third-place playoff",
+      "link": "https://cryptobriefing.com/michael-olise-chances-created-england-world-cup/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:32:20.000Z",
+      "summary": "Michael Olise created four chances against England at the 2026 World Cup third-place playoff, leading all players in the match and the tournament in The post Michael Olise outshines England with four chances created i…"
+    },
+    {
+      "title": "England’s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight",
+      "link": "https://cryptobriefing.com/england-france-world-cup-crypto-fan-tokens/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:19:42.000Z",
+      "summary": "England's historic 6-4 World Cup win over France drives fan token volatility as Kraken's FIFA sponsorship and Chiliz trading activity spotlight crypto in The post England’s 6-4 World Cup thriller over France puts cryp…"
+    },
+    {
+      "title": "Drake bets $2M on Argentina to win 2026 World Cup final against Spain",
+      "link": "https://cryptobriefing.com/drake-bets-2m-on-argentina-to-win-2026-world-cup-final-against-spain/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:19:13.000Z",
+      "summary": "Drake bets $2M on Argentina to win the 2026 World Cup final against Spain. Argentina to win at 40.8% YES. The post Drake bets $2M on Argentina to win 2026 World Cup final against Spain appeared first on Crypto Briefing ."
+    },
+    {
+      "title": "England secures World Cup bronze in 6-4 thriller, best finish in 60 years",
+      "link": "https://cryptobriefing.com/england-world-cup-bronze-medal-2026/",
+      "source": "CryptoBriefing",
+      "date": "2026-07-18T23:18:01.000Z",
+      "summary": "England beat France 6-4 to claim bronze at the 2026 FIFA World Cup, their best finish in 60 years. Bukayo Saka scored a hat-trick in the thriller. The post England secures World Cup bronze in 6-4 thriller, best finish…"
     },
     {
       "title": "US forces strike near Hajiabad amid Iran conflict escalation",
@@ -65,109 +128,11 @@
       "summary": "Trump calls on FIFA to award the 2038 World Cup exclusively to the US, a move that could boost prediction markets, fan tokens, and crypto sports platforms. The post Trump urges FIFA to host 2038 World Cup exclusively …"
     },
     {
-      "title": "England defeats France 5-3 in World Cup thriller as Saka joins Geoff Hurst in history books",
-      "link": "https://cryptobriefing.com/england-france-world-cup-saka-hat-trick/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:59:02.000Z",
-      "summary": "Bukayo Saka scored a hat-trick as England beat France 5-3 in the World Cup 2026 third-place match, joining Geoff Hurst in the history books. The post England defeats France 5-3 in World Cup thriller as Saka joins Geof…"
-    },
-    {
-      "title": "Mbappe’s World Cup brace sends Solana meme tokens and Sorare NFTs into a frenzy",
-      "link": "https://cryptobriefing.com/mbappe-world-cup-brace-crypto-nft-impact/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:58:29.000Z",
-      "summary": "Kylian Mbappe's World Cup 2026 brace is spiking Solana meme tokens and Sorare NFT trading volumes, highlighting crypto's deepening ties to global sports. The post Mbappe’s World Cup brace sends Solana meme tokens and …"
-    },
-    {
-      "title": "Michael Saylor opposes BIP 110, calls for Bitcoin neutrality over transaction filtering",
-      "link": "https://cryptobriefing.com/saylor-opposes-bip-110-bitcoin-neutrality/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:55:11.000Z",
-      "summary": "Michael Saylor opposes BIP 110, warning that filtering Ordinals-style transactions politicizes Bitcoin consensus rules. Miner support sits at 0%. The post Michael Saylor opposes BIP 110, calls for Bitcoin neutrality o…"
-    },
-    {
-      "title": "Nouriel Roubini predicts universal basic income or socialism due to AI disruption",
-      "link": "https://cryptobriefing.com/roubini-predicts-ubi-ai-disruption/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:51:58.000Z",
-      "summary": "Nouriel Roubini warns AI could cause massive unemployment, pushing governments toward universal basic income. Here's what it means for crypto and markets. The post Nouriel Roubini predicts universal basic income or so…"
-    },
-    {
-      "title": "American sneaker brand closes more stores",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/giant-athletic-shoe-company-retail-194700040.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T22:50:38.000Z",
-      "summary": ""
-    },
-    {
-      "title": "How Buying SpaceX Today Could More Than 10X Your Net Worth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buying-spacex-today-could-more-225000293.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T22:50:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "The $26.75 Million Bet Against Your Gains: Inside RYLD’s Hidden Cost Structure",
-      "link": "https://finance.yahoo.com/markets/options/articles/26-75-million-bet-against-224944546.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T22:49:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Kylian Mbappé’s historic World Cup run highlights crypto’s growing absence from global sports sponsorships",
-      "link": "https://cryptobriefing.com/mbappe-world-cup-crypto-sports-sponsorship/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:49:16.000Z",
-      "summary": "Kylian Mbapp scores his 10th goal of the 2026 World Cup, reaching 20 career goals. But crypto's absence from sports sponsorships tells a bigger story for The post Kylian Mbappé’s historic World Cup run highlights cryp…"
-    },
-    {
-      "title": "Zelensky’s dismissal of key official Fedorov sparks protests in Ukraine",
-      "link": "https://cryptobriefing.com/zelenskys-dismissal-of-key-official-fedorov-sparks-protests-in-ukraine/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:47:34.000Z",
-      "summary": "Protests erupt in Ukraine after Zelensky dismisses key official Fedorov. Ceasefire by December 31, 2026 at 35.5% YES. The post Zelensky’s dismissal of key official Fedorov sparks protests in Ukraine appeared first on …"
-    },
-    {
-      "title": "Iranian drone strikes graveyard in Erbil amid escalating conflict",
-      "link": "https://cryptobriefing.com/iranian-drone-strikes-graveyard-in-erbil-amid-escalating-conflict/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:41:07.000Z",
-      "summary": "Iranian drone strikes a graveyard in Erbil amid rising tensions. Military action against a Gulf state by July 22 at 59.5% YES. The post Iranian drone strikes graveyard in Erbil amid escalating conflict appeared first …"
-    },
-    {
-      "title": "Explosive-laden drone shot down near US consulate in Erbil as crypto markets shrug off escalation",
-      "link": "https://cryptobriefing.com/drone-shot-down-erbil-us-consulate-crypto/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:40:21.000Z",
-      "summary": "An explosive-laden drone was shot down near the US consulate in Erbil, Iraq, but crypto markets priced in less Iranian conflict risk after the incident. The post Explosive-laden drone shot down near US consulate in Er…"
-    },
-    {
-      "title": "Michael Olise breaks Pelé’s World Cup assist record, and fan token markets are paying attention",
-      "link": "https://cryptobriefing.com/olise-world-cup-assist-record-fan-tokens/",
-      "source": "CryptoBriefing",
-      "date": "2026-07-18T22:40:18.000Z",
-      "summary": "Michael Olise breaks Pel's World Cup assist record with 7 assists at the 2026 tournament, sparking trading surges in football fan tokens and NFTs. The post Michael Olise breaks Pelé’s World Cup assist record, and fan …"
-    },
-    {
-      "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, WARN notice says",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-america-reduce-workforce-215814306.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T21:58:14.000Z",
-      "summary": ""
-    },
-    {
       "title": "France orders country's internet service providers to block Polymarket",
       "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
       "source": "CoinDesk",
       "date": "2026-07-18T21:52:18.000Z",
       "summary": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions."
-    },
-    {
-      "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T19:41:18.000Z",
-      "summary": ""
     },
     {
       "title": "&#x2018;Respect is important&#x2019;: If my financial adviser said, &#x2018;Hey,&#x2019; my wife and I would walk out. Where do you draw the line?",
@@ -247,13 +212,6 @@
       "summary": "The saddest financial mistake in retirement has nothing to do with running out of money."
     },
     {
-      "title": "Analog Devices (ADI) at $375: Are Investors Paying an AI Premium for Industrial Tech?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-375-investors-171914602.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T17:19:14.000Z",
-      "summary": ""
-    },
-    {
       "title": "Bitcoin is trading through a dangerous weekend as 20% of the world’s oil hangs in the balance",
       "link": "https://cryptoslate.com/bitcoin-is-trading-through-a-dangerous-weekend-as-20-of-the-worlds-oil-hangs-in-the-balance/",
       "source": "CryptoSlate",
@@ -268,18 +226,60 @@
       "summary": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network."
     },
     {
-      "title": "Ethereum Price Prediction: Thin Volumes Increase Risk of a Drop Below $1.8K",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-thin-volumes-163433731.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T16:34:33.000Z",
-      "summary": ""
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "source": "CoinDesk",
+      "date": "2026-07-18T16:09:59.000Z",
+      "summary": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of …"
     },
     {
-      "title": "Dave Ramsey: 'You can't outearn stupidity' — here's why teachers become millionaires so often and how to follow along",
-      "link": "https://finance.yahoo.com/small-business/articles/dave-ramsey-cant-outearn-stupidity-161500168.html",
-      "source": "Yahoo Finance",
-      "date": "2026-07-18T16:15:00.000Z",
-      "summary": ""
+      "title": "'Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk",
+      "link": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
+      "source": "The Defiant",
+      "date": "2026-07-18T15:59:24.000Z",
+      "summary": "Coinbase CEO Brian Armstrong set his X profile picture to the artwork behind a Base memecoin, then replaced it with a newly acquired CryptoPunk. The $BRIAN token round-tripped from obscurity to millions and back, a st…"
+    },
+    {
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "source": "CoinDesk",
+      "date": "2026-07-18T15:50:31.000Z",
+      "summary": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth."
+    },
+    {
+      "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
+      "link": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
+      "source": "Decrypt",
+      "date": "2026-07-18T15:21:03.000Z",
+      "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review."
+    },
+    {
+      "title": "China found a $125 billion escape valve for an economy running out of momentum",
+      "link": "https://cryptoslate.com/china-posted-a-125-6-billion-trade-surplus-but-its-economy-may-still-be-slowing/",
+      "source": "CryptoSlate",
+      "date": "2026-07-18T15:05:27.000Z",
+      "summary": "China’s June trade numbers and second-quarter growth numbers looked strong if you look at them one at a time. However, when you put them together, they describe an economy with a very specific problem: factories are s…"
+    },
+    {
+      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "source": "CoinDesk",
+      "date": "2026-07-18T14:15:15.000Z",
+      "summary": "Large traders are betting on a BTC price rise to $72,000 by the end of the month, latest options market flow suggests."
+    },
+    {
+      "title": "Trump posts may soon reach trading bots before users and prediction markets are not ready",
+      "link": "https://cryptoslate.com/trump-posts-may-soon-reach-trading-bots-before-users-and-prediction-markets-are-not-ready/",
+      "source": "CryptoSlate",
+      "date": "2026-07-18T14:05:16.000Z",
+      "summary": "Trump Media is turning Truth Social posts into a feed for traders, and prediction markets now face a timing problem. The issue is what happens after a post becomes public but before most users can see, read, and act o…"
+    },
+    {
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "source": "CoinDesk",
+      "date": "2026-07-18T14:00:00.000Z",
+      "summary": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist."
     }
   ]
 }
